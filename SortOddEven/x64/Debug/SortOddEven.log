@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SortOddEven.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\parallel computing\hw2_hadarpur_sergeidvorjin\hw2_hadarpur_sergeidvorjin\sortoddeven\sortoddeven\main.cpp(112): warning C4273: 'log2': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(506): note: see previous definition of 'log2'
+d:\parallel computing\hw2_hadarpur_sergeidvorjin\hw2_hadarpur_sergeidvorjin\sortoddeven\sortoddeven\main.cpp(216): warning C4101: 'status': unreferenced local variable
+  SortOddEven.vcxproj -> D:\parallel computing\HW2_HadarPur_SergeiDvorjin\HW2_HadarPur_SergeiDvorjin\SortOddEven\x64\Debug\ShearSort.exe
+  SortOddEven.vcxproj -> D:\parallel computing\HW2_HadarPur_SergeiDvorjin\HW2_HadarPur_SergeiDvorjin\SortOddEven\x64\Debug\ShearSort.pdb (Full PDB)
